@@ -1,0 +1,4 @@
+--compiler-options=-ms,-ms2600,-Os,-fdata-sections,-ffunction-sections,-falign-jumps,-fno-function-cse,-funit-at-a-time
+--output="D:\MCU\H8S\Asembler H8S\HEW_workspace\Empty_1\Debug\libEmpty_1.a"
+--select-lib=optlib
+--header-files=stdio,stdlib,string
